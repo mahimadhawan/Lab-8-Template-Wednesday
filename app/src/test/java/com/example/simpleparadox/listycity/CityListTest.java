@@ -95,7 +95,8 @@ class CityListTest {
     }
     
      @Test
-    void testAdd() {
+    /*****************************Test***********************/
+    void testAdd2() {
         CityList cityList = mockCityList();
 
         assertEquals(1, cityList.countCities());
